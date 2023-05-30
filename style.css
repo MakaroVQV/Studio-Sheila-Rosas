@@ -1,0 +1,80 @@
+
+
+body{
+background-color:#F8F8FF !important;
+}
+.hud{
+  margin:auto;
+  width:980px;
+  font-size:20px;
+  font-family:;
+  background-color:none;
+  
+}
+
+.button {
+  background-color: #FFC0CB;
+  border-radius:10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration:solid;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button-submit{
+
+background-color: #FFC0CB;
+
+border-radius: 10px;
+
+color: white;
+
+padding: 10px 22px;
+
+text-align: center;
+
+text-decoration: solid;
+
+border-style: none;
+
+border-color: #FFC0CB
+
+
+}
+.titulo { 
+
+  color:#FFC0CB;
+}
+.car-letra{
+
+font-size:30px;
+  
+}
+
+.whatsapp-link {
+			position: fixed;
+			width: 60px;
+			height: 60px;
+			bottom: 40px;
+			right: 40px;
+			background-color: #25d366;
+			color: #fff;
+			border-radius: 50px;
+			text-align: center;
+			font-size: 30px;
+			box-shadow: 1px 1px 2px #888;
+			z-index: 1000;
+		}
+ 
+		.fa-whatsapp {
+			margin-top: 16px;
+		}
+
+
+.mt-0 {
+  margin-top: 0 !important;
+}
